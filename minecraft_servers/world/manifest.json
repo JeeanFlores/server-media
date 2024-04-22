@@ -1,0 +1,35 @@
+{
+  "server_name": "world",
+  "nice_name": "Rede World",
+  "direct_ip": "redeworld.xyz",
+  "server_wildcards": [
+    "%.redeworld.xyz"
+  ],
+  "gamemodes": {
+    "prison": {
+      "name": "Factions Alpha",
+      "color": "#FFAA00",
+      "command": "/connect factions-alpha-spawn"
+    }
+  },
+  "social": {
+    "discord": "https://discord.gg/UTqBcFQMKm",
+    "web_shop": "https://loja.redeworld.xyz",    
+    "tiktok": "redeworldoficial",
+    "instagram": "redeworldoficial",
+    "youtube": "https://www.youtube.com/@jeanflores"
+  },
+  "discord": {
+    "server_id": 741375527889403974,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#f89900",
+    "background": "#f9cb25",
+    "text": "#FFFFFF"
+  },
+  "location": {
+    "country": "Brazil",
+    "country_code": "BR"
+  }
+}
